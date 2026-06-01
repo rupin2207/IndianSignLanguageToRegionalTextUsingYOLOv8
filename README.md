@@ -304,30 +304,11 @@ isl-to-regional-text/
 | Tanushree J | 1EP22CS109 | Annotation, testing, translation module |
 | Varsha D | 1EP22CS117 | UI design, documentation, result analysis |
 
-**Guide:** Mrs. Soumya Jolad, Asst. Professor, Dept. of CSE, EPCET
-
-**Institution:** East Point College of Engineering and Technology, Bengaluru
-**Affiliated to:** Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
-## Publication
 
-This project was submitted to the **International Conference on Emerging Synergy Science and Technology 2026** (Microsoft CMT platform).
 
-**Paper title:** *Deep Learning-Based Indian Sign Language Translation to Regional Text with YOLOv8*
-**Paper ID:** 381 | Track: Computer Science | Submitted: January 6, 2026
-
----
-
-## Acknowledgements
-
-- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for the detection framework
-- [LabelImg](https://github.com/tzutalin/labelImg) for dataset annotation
-- [Deep Translator](https://github.com/nidhaloff/deep-translator) for multilingual translation
-- [PyQt5](https://www.riverbankcomputing.com/software/pyqt/) for the GUI toolkit
-- ISL-CSLRT dataset (referenced for benchmarking)
-- Management and faculty, East Point College of Engineering and Technology
 
 ---
 
