@@ -190,7 +190,7 @@ deep-translator>=1.9.0
 # Run the main application
 python main.py
 ```
-![Demo](https://raw.githubusercontent.com/rupin2207/IndianSignLanguageToRegionalTextUsingYOLOv8/main/results/newresu.jpg)
+![Demo](Documents/sign language - Copy/result/new resu.jpg)
 **Dashboard controls:**
 
 | Button | Action |
