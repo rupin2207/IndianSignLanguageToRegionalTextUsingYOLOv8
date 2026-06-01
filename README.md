@@ -51,7 +51,7 @@ This system bridges that gap using a standard webcam. It detects 25 common ISL h
 ---
 
 ## Demo
-![Demo](https://github.com/rupin2207/IndianSignLanguageToRegionalTextUsingYOLOv8/blob/main/Documents/sign%20language%20-%20Copy/result/new%20resu.jpg)
+![Demo](https://github.com/rupin2207/IndianSignLanguageToRegionalTextUsingYOLOv8/blob/main/Documents/sign%20language%20-%20Copy/practice/RESULT.jpg)
 The system detects gestures frame-by-frame, buffers confirmed words, builds a sentence, and translates it on demand.
 
 **Example flows:**
