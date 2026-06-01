@@ -190,7 +190,7 @@ deep-translator>=1.9.0
 # Run the main application
 python main.py
 ```
-
+![Demo](https://raw.githubusercontent.com/rupin2207/IndianSignLanguageToRegionalTextUsingYOLOv8/main/results/newresu.jpg)
 **Dashboard controls:**
 
 | Button | Action |
@@ -208,6 +208,7 @@ python main.py
 4. Watch the sentence build in the "Formed Sentence" field
 5. Select a target language (Kannada / Hindi) from the dropdown
 6. Click **Translate** to see the regional language output
+
 
 ---
 
